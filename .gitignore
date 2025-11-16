@@ -1,0 +1,57 @@
+# -----------------------------
+# OS / macOS Junk
+# -----------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# -----------------------------
+# VS Code Settings
+# -----------------------------
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+
+# -----------------------------
+# Python environments
+# -----------------------------
+venv/
+.venv/
+mlenv/
+env/
+ENV/
+
+# -----------------------------
+# Python cache files
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+# Jupyter Notebook junk
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Build / Dist files
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# Byte-compiled / temporary
+# -----------------------------
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
